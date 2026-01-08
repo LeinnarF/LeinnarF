@@ -20,7 +20,7 @@ I'm a passionate computer science student with a diverse range of interests span
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### I Can Speak
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
