@@ -49,7 +49,7 @@ I'm a passionate computer science student with a diverse range of interests span
 - **[Snek](https://github.com/LeinnarF/Snek)** - Simple snake game using Raylib and C++ (⭐ 0)
 
 ### 📊 Data Science & Research
-- **[Numerical-Analysis-Recommender-System](https://github.com/LeinnarF/Numerical-Analysis-Recommneder-System)** - Advanced numerical analysis project (⭐ 1)
+- **[Numerical-Analysis-Recommneder-System](https://github.com/LeinnarF/Numerical-Analysis-Recommneder-System)** - Advanced numerical analysis project (⭐ 1)
 - **[TSP-Metaheuristic-Comparative-Analysis](https://github.com/LeinnarF/TSP-Metaheuristic-Comparative-Analysis)** - Comparative analysis of metaheuristic algorithms for TSP (⭐ 0)
 - **[Math_Modeling_Research_ARIMAX](https://github.com/LeinnarF/Math_Modeling_Research_ARIMAX)** - Mathematical modeling research using ARIMAX models (⭐ 0)
 - **[Graph-Theory](https://github.com/LeinnarF/Graph-Theory)** - Graph theory implementations and visualizations (⭐ 0)
@@ -61,7 +61,7 @@ I'm a passionate computer science student with a diverse range of interests span
 - **[Calculator](https://github.com/LeinnarF/Calculator)** - Web-based calculator application (⭐ 0)
 
 ### 📝 Academic Work
-- **[Thesis-LaTeX](https://github.com/LeinnarF/Thesis-LaTex)** - Academic thesis written in LaTeX (⭐ 0)
+- **[Thesis-LaTex](https://github.com/LeinnarF/Thesis-LaTex)** - Academic thesis written in LaTeX (⭐ 0)
 - **[Real-Analysis-Temperature-Modeling](https://github.com/LeinnarF/Real-Analysis-Temperature-Modeling)** - Real analysis applied to temperature modeling (⭐ 0)
 
 ## 📈 GitHub Statistics
