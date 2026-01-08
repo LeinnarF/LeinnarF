@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm LeinnarF</h1>
 
 <p align="center">
-  <em>Computer Science Student | Game Developer | Data Science Enthusiast</em>
+  <em>Computer Science Student | Math Major | Data Science Enthusiast</em>
 </p>
 
 <p align="center">
