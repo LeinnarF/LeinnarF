@@ -4,9 +4,9 @@
   <em>Computer Science Student | Math Major | Data Science Enthusiast</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LeinnarF&label=Profile%20views&color=0e75b6&style=flat" alt="LeinnarF" />
-</p>
+</p> -->
 
 ## 🚀 About Me
 
