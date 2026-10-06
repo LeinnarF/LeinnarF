@@ -55,32 +55,6 @@ leinnarf@cachyos:~$ cat about.md
 ---
 
 ```console
-leinnarf@cachyos:~$ ls -la ~/projects/
-```
-
-```text
-drwxr-xr-x  burnout-prediction/    # early-warning system, novel math model
-drwxr-xr-x  sugar-forecasting/     # ARIMAX + Plotly + Jinja2 dashboard
-drwxr-xr-x  play-store-ml/         # EDA, classification, regression, PCA, KNN
-drwxr-xr-x  pokemon-battle-ml/     # pairwise classification for battle outcomes
-drwxr-xr-x  rag-qa-local/          # local RAG Q&A with ollama
-drwxr-xr-x  resume-gen-cli/        # AI-CLI pipeline → ATS-friendly LaTeX
-```
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🔥 **Burnout Prediction System** | Early-warning model built on accumulation, trend detection, personal-baseline z-scores, self-care gating & rest quality | `Python` `NumPy` |
-| 📈 **Sugar Price Forecasting** | Time-series forecasting with an HTML reporting dashboard | `ARIMAX` `Plotly` `Pandas` `Jinja2` |
-| 📱 **Google Play Store ML** | Full ML workflow on app store data | `scikit-learn` `PCA` `KNN` |
-| ⚔️ **Pokémon Battle Predictor** | Predicts battle winners via pairwise classification | `Python` `scikit-learn` |
-| 🧠 **Local RAG Q&A** | Private document Q&A running fully on-device | `ollama` `Python` |
-| 📄 **Resume Generator CLI** | Job-match scoring + ATS-compliant LaTeX output | `Bash` `LaTeX` `LLM CLIs` |
-
-> 📝 Swap in your real repo links: `[**Project Name**](https://github.com/LeinnarF/repo)`
-
----
-
-```console
 leinnarf@cachyos:~$ ./skills.sh --verbose
 ```
 
@@ -114,47 +88,8 @@ TOOLING    [█████████░] Linux · Git · Neovim
 
 ---
 
-```console
-leinnarf@cachyos:~$ git log --oneline --graph --decorate
-```
-
-```text
-* a1b2c3d (HEAD -> main) feat: DataCamp upskilling in progress
-* 9f8e7d6 feat: burnout prediction system v0.x
-* 5c4b3a2 feat: sugar price forecasting dashboard
-* 2e1d0c9 feat: ML portfolio (Play Store, Pokémon, RAG)
-* 7b6a5f4 chore: graduate — BS Mathematics, CS specialization
-* 0000000 init: curiosity.exe
-```
-
----
-
-```console
-leinnarf@cachyos:~$ cat /proc/now
-```
-
-```text
-[ ACTIVE ]  Building out the ML + forecasting portfolio
-[ ACTIVE ]  DataCamp courses → data science track
-[ ACTIVE ]  Tuning my Neovim + terminal workflow
-[ PLANNED ] Graduate studies in data science / research
-```
-
----
-
 <div align="center">
 
-```console
-leinnarf@cachyos:~$ ./contact.sh
-```
-
-```text
-╔══════════════════════════════════════════════╗
-║   📫  GitHub : github.com/LeinnarF           ║
-║   💼  LinkedIn : <your-linkedin-url>         ║
-║   ✉️   Email   : <your-email>                ║
-╚══════════════════════════════════════════════╝
-```
 
 <!-- Stats: these load from public services and render only once pushed to GitHub -->
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeinnarF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" />
